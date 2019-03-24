@@ -93,9 +93,9 @@ def vote(form, value, times, wait_min = None, wait_max = None):
         i += 1
 
 # Initialize these to the specific form and how often you want to vote
-poll_id = 0
-answer_id = 0
-number_of_votes = 10
+poll_id = 10274457
+answer_id = 47259372
+number_of_votes = 50
 wait_min = None
 wait_max = None
 
